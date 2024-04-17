@@ -1,0 +1,3 @@
+sudo snap install --classic certbot
+sudo service nginx stop
+sudo certbot --nginx -d www.Kanisa.tech
